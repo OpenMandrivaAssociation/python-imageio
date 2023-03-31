@@ -2,7 +2,7 @@
 
 Name:           python-%{pypi_name}
 Version:        2.6.1
-Release:        3
+Release:        4
 Group:          Development/Python
 Summary:        Python library for reading and writing image data
 License:        BSD
