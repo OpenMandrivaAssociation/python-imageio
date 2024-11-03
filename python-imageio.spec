@@ -1,7 +1,7 @@
 %global pypi_name imageio
 
 Name:           python-%{pypi_name}
-Version:        2.35.1
+Version:        2.36.0
 Release:        1
 Group:          Development/Python
 Summary:        Python library for reading and writing image data
