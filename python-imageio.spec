@@ -2,7 +2,7 @@
 %define oname ImageIO
 
 Name:		python-imageio
-Version:	2.37.4
+Version:	2.38.1
 Release:	1
 Group:		Development/Python
 Summary:	Python library for reading and writing image data
